@@ -1,6 +1,6 @@
 {
     "name": "Digital Wallet",
-    "short_name": "ID Wallet",
+    "short_name": "Digital Wallet",
     "description": "Secure Digital Identity Management",
     "icons": [
         {
@@ -25,4 +25,5 @@
     "background_color": "#f5f7ff",
     "theme_color": "#4361ee",
     "orientation": "portrait"
+
 }
